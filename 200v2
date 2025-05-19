@@ -1,0 +1,14 @@
+.git
+.gitignore
+zzzzzzzzzz
+zzzzzzzz
+zzzzzzzzz
+HISTORY.md
+mayan/media
+db.sqlite*
+docker
+!docker/rootfs
+./.*
+docs
+
+zzzzzzzzz
